@@ -1,6 +1,8 @@
+<p align="center"><img src="img/voyages.png" /></p>
+
 # Voyages in Language Technologies
 
-This course is an introduction to a range of language technologies. 
+This course is an introduction to a range of language technologies.
 
 ### Introduction to Languages
 
@@ -9,12 +11,12 @@ A general introduction to the world's languages, including an overview of essent
 [Presentation recording playlist](https://www.youtube.com/watch?v=P7k1RkxR75U&list=PLPU3m9-GX8la28nWmzacDNQYxieYV_LYe)
 
 Presentation slides  
-- [module 1-1](https://docs.google.com/presentation/d/1cDefWih35FLzvCPlqZWw0UgYCmOyaVs4nMuuNtouOnE/edit?usp=sharing)
-- [module 1-2](https://docs.google.com/presentation/d/1zcwXQ9CGw9ctnfMRiI3sdnpzuUkb_vJanighP2DtLDA/edit?usp=sharing)
-- [module 1-3](https://docs.google.com/presentation/d/1wZF6swqQO6xl9BwBhyoQZmNUgvbqzMsh1HtSAA9NXSc/edit?usp=sharing)
-- [module 1-4](https://docs.google.com/presentation/d/1utAaBKrZ2hR12j0k2_Jnw6NIeA_EteYLF-EtKPEbxqE/edit?usp=sharing)
-- [module 1-5](https://docs.google.com/presentation/d/1411Vh-FVvzoNsIBvJBuHA5nI7ZH4hFicYzvQxPmIHDU/edit?usp=sharing)
-- [module 1-6](https://docs.google.com/presentation/d/1nHRzGbqTrJKk4yL4xrpreQeBnttYTzWNXICB9gvLHv4/edit?usp=sharing)
+- [1_1 Introduction](https://docs.google.com/presentation/d/1cDefWih35FLzvCPlqZWw0UgYCmOyaVs4nMuuNtouOnE/edit?usp=sharing)
+- [1_2 Components of language](https://docs.google.com/presentation/d/1zcwXQ9CGw9ctnfMRiI3sdnpzuUkb_vJanighP2DtLDA/edit?usp=sharing)
+- [1_3 The world’s languages](https://docs.google.com/presentation/d/1wZF6swqQO6xl9BwBhyoQZmNUgvbqzMsh1HtSAA9NXSc/edit?usp=sharing)
+- [1_4 Documenting language](https://docs.google.com/presentation/d/1utAaBKrZ2hR12j0k2_Jnw6NIeA_EteYLF-EtKPEbxqE/edit?usp=sharing)
+- [1_5 Language and technology](https://docs.google.com/presentation/d/1411Vh-FVvzoNsIBvJBuHA5nI7ZH4hFicYzvQxPmIHDU/edit?usp=sharing)
+- [1_6 Core tools & tech support](https://docs.google.com/presentation/d/1nHRzGbqTrJKk4yL4xrpreQeBnttYTzWNXICB9gvLHv4/edit?usp=sharing)
 
 
 ### Introduction to Language Data
