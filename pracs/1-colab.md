@@ -119,4 +119,6 @@ from IPython.display import Audio
 Audio(url="https://www.xeno-canto.org/sounds/uploaded/OHGEFOWNMD/XC664130-rtbc%2007_41_07.mp3")
 ```
 
+This audio is copyright [James Lambert](https://www.xeno-canto.org/contributor/OHGEFOWNMD) and used under [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+
 
