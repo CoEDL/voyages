@@ -87,6 +87,26 @@ Further reading:
 For more detail on working with files, see [this Colab](https://colab.research.google.com/notebooks/io.ipynb) or this [blog post](https://neptune.ai/blog/google-colab-dealing-with-files-3).
 
 
+
+### Read data from Google Drive
+
+This example will mount your Google Drive folder and read a CSV file. 
+
+1. Create a folder in your Google Drive called `colab_data`. 
+2. Save [this file]() to your computer. 
+3. Upload the CSV file to your `colab_data` folder.
+4. Make a new Colab with the following code.
+```
+import pandas
+from google.colab import drive
+drive.mount('/content/drive')
+file_path = "/content/drive/MyDrive/colab_data/data.csv"
+pandas.read_csv(file_path)
+```
+
+The code load the Pandas Python module. Pandas is a data manipulation tool. In this example, we aren't doing any data manipulation, we use it to read and display the CSV data.
+
+
 # Plotting
 
 Matplotlib is a handy package for showing plots or charts. The charts can be shown in the output area of a code cell. Try the following example to draw a line chart. 
