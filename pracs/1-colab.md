@@ -147,3 +147,19 @@ Audio(url="https://www.xeno-canto.org/sounds/uploaded/OHGEFOWNMD/XC664130-rtbc%2
 
 > This audio is copyright [James Lambert](https://www.xeno-canto.org/contributor/OHGEFOWNMD) and used under [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
+
+
+
+---
+# Other handy snippets
+
+Add to this section by forking the [Voyages GitHub repository](https://github.com/CoEDL/voyages) and submitting a Pull Request with your updates. 
+
+
+### GraphViz and PyDot
+
+```
+# https://pypi.python.org/pypi/pydot
+!apt-get -qq install -y graphviz && pip install pydot
+import pydot
+```
