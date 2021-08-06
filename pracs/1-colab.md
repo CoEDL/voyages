@@ -104,8 +104,8 @@ file_path = "/content/drive/MyDrive/colab_data/data.csv"
 pandas.read_csv(file_path)
 ```
 
-The code load the `Pandas` data manipulation tool. In this example, we aren't doing any data manipulation, we use it to read and display the CSV data. 
-Next, the `drive` module is imported. `drive.mount` then authenticates your Google Drive account and mounts the folder, making it accessible in the Colab file system at `/content/drive` path. File_path is the path to the CSV file, which is read (and displayed) by pandas. 
+The code loads the Pandas data manipulation tool. In this example, we aren't doing any data manipulation, we use it to read and display the CSV data. 
+Next, the `drive` module is imported. `Drive.mount` then authenticates your Google Drive account and mounts the folder, making it accessible in the Colab file system at the `/content/drive` path. File_path is the path to the CSV file, which is read (and displayed) by Pandas.
 
 This technique can be used to access files that are already in your Google Drive, by replacing the `file_path` URL.
 
