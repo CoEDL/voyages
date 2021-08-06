@@ -93,7 +93,7 @@ For more detail on working with files, see [this Colab](https://colab.research.g
 This example will mount your Google Drive folder and read a CSV file. 
 
 1. Create a folder in your Google Drive called `colab_data`. 
-2. Save [this file]() to your computer. 
+2. Save [this file](https://coedl.github.io/voyages/pracs/1-colab/data.csv) to your computer. 
 3. Upload the CSV file to your `colab_data` folder.
 4. Make a new Colab with the following code.
 ```
