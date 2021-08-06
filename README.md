@@ -18,6 +18,8 @@ Presentation slides
 - [1_5 Language and technology](https://docs.google.com/presentation/d/1411Vh-FVvzoNsIBvJBuHA5nI7ZH4hFicYzvQxPmIHDU/edit?usp=sharing)
 - [1_6 Core tools & tech support](https://docs.google.com/presentation/d/1nHRzGbqTrJKk4yL4xrpreQeBnttYTzWNXICB9gvLHv4/edit?usp=sharing)
 
+Prac notes
+[Introduction to Colab](pracs/1-colab.md)
 
 ### Introduction to Language Data
 
