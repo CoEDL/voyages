@@ -104,7 +104,13 @@ file_path = "/content/drive/MyDrive/colab_data/data.csv"
 pandas.read_csv(file_path)
 ```
 
-The code load the Pandas Python module. Pandas is a data manipulation tool. In this example, we aren't doing any data manipulation, we use it to read and display the CSV data.
+The code load the `Pandas` data manipulation tool. In this example, we aren't doing any data manipulation, we use it to read and display the CSV data. 
+Next, the `drive` module is imported. `drive.mount` then authenticates your Google Drive account and mounts the folder, making it accessible in the Colab file system at `/content/drive` path. File_path is the path to the CSV file, which is read (and displayed) by pandas. 
+
+This technique can be used to access files that are already in your Google Drive, by replacing the `file_path` URL.
+
+> TIP: You don't need to explicitly `print()` things in Colab. It will display the output of the last line in the code cell.
+
 
 
 # Plotting
@@ -139,6 +145,5 @@ from IPython.display import Audio
 Audio(url="https://www.xeno-canto.org/sounds/uploaded/OHGEFOWNMD/XC664130-rtbc%2007_41_07.mp3")
 ```
 
-This audio is copyright [James Lambert](https://www.xeno-canto.org/contributor/OHGEFOWNMD) and used under [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
-
+> This audio is copyright [James Lambert](https://www.xeno-canto.org/contributor/OHGEFOWNMD) and used under [Creative Commons Attribution-NonCommercial-NoDerivs 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
