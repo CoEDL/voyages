@@ -48,7 +48,7 @@ To run all the cells, go to `Runtime > Run all`.
 Cells can be moved by clicking the up/down arrows.
 
 
-## Loading files
+# Loading files
 
 You can upload files to Colab, or share files from an existing Google drive. To upload files from your machine, first create the Colab and connect to a runtime. Then in the side menu, click the upload file icon to upload the file you want to work with. You can navigate the Colab virtual machine's file system in the side menu. Using this method, files are uploaded into the current visible directory. By the way, the "sample data" folder that you see is at `/content/sample_data`.
 
@@ -87,7 +87,7 @@ Further reading:
 For more detail on working with files, see [this Colab](https://colab.research.google.com/notebooks/io.ipynb) or this [blog post](https://neptune.ai/blog/google-colab-dealing-with-files-3).
 
 
-## Plotting
+# Plotting
 
 Matplotlib is a handy package for showing plots or charts. The charts can be shown in the output area of a code cell. Try the following example to draw a line chart. 
 
@@ -110,5 +110,13 @@ For more chart examples, see [this Colab](https://colab.research.google.com/note
 
 
 
+# Playing media
+
+Colabs can display media such as audio in the notebook. Try the following code to display an audio player for an online mp3 file.
+
+```
+from IPython.display import Audio
+Audio(url="https://www.xeno-canto.org/sounds/uploaded/OHGEFOWNMD/XC664130-rtbc%2007_41_07.mp3")
+```
 
 
