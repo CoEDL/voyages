@@ -13,7 +13,7 @@ A general introduction to the world's languages, including an overview of essent
 
 Lecture
 
-- [Recording playlist](https://www.youtube.com/watch?v=P7k1RkxR75U&list=PLPU3m9-GX8la28nWmzacDNQYxieYV_LYe) (this video has an automatic transcript).
+- [Recording playlist](https://www.youtube.com/watch?v=P7k1RkxR75U&list=PLPU3m9-GX8la28nWmzacDNQYxieYV_LYe)
 
 Lecture slides  
 
@@ -26,7 +26,7 @@ Lecture slides
 
 Practical session
 - [Notes](pracs/1-colab.md)
-- [Recording](https://uqz.zoom.us/rec/share/k5OQJnhGKvvIGX-gejmCXrWvoflxVjZRpl8FhZulKEs760VpLJqwIWPXwxCvUFVh.cglhgLHtt9cs5Nnt?startTime=1628215383000) (this video has an automatic transcript).
+- [Recording](https://uqz.zoom.us/rec/share/k5OQJnhGKvvIGX-gejmCXrWvoflxVjZRpl8FhZulKEs760VpLJqwIWPXwxCvUFVh.cglhgLHtt9cs5Nnt?startTime=1628215383000)
 
 ### Introduction to Language Data
 
