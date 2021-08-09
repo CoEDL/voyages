@@ -32,7 +32,7 @@ Aspects of data preparation for machine learning and language tech development a
 
 Lecture
 
-- [Recording playlist](https://youtube.com/playlist?list=PLPU3m9-GX8lYbnvafsc1hLQQLiN75qw3i)
+- [Recording playlist](https://www.youtube.com/watch?v=_ErpE13hqKM&list=PLPU3m9-GX8lYbnvafsc1hLQQLiN75qw3i)
 - [Lecture slides](https://docs.google.com/presentation/d/1i2HiuyRCEVkH9eNAjLOlC3rBYy1qTCcs0AZiJXo_R18/edit?usp=sharing)
 
 
