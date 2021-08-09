@@ -20,6 +20,7 @@ Presentation slides
 
 Prac notes  
 - [Introduction to Colab](pracs/1-colab.md)
+- [Recording of practical session](https://uqz.zoom.us/rec/share/k5OQJnhGKvvIGX-gejmCXrWvoflxVjZRpl8FhZulKEs760VpLJqwIWPXwxCvUFVh.cglhgLHtt9cs5Nnt?startTime=1628215383000). Please note that the audio transcript is automatic and very poor quality.
 
 ### Introduction to Language Data
 
