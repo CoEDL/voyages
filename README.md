@@ -2,7 +2,10 @@
 
 # Voyages in Language Technologies
 
-This course is an introduction to a range of language technologies.
+This course is an introduction to a range of language technologies. 
+
+Recordings of the lectures and practical sessions will have automatic transcriptions provided by YouTube or Zoom. These will be corrected manually and the status of recordings updated below as these are corrected. 
+
 
 ### Introduction to Languages
 
