@@ -32,6 +32,13 @@ Practical session
 
 Aspects of data preparation for machine learning and language tech development and use. Data fundamentals such as international standards (ISO codes and Unicodes) are included.
 
+Lecture
+
+- [Recording playlist](https://www.youtube.com/watch?v=P7k1RkxR75U&list=PLPU3m9-GX8la28nWmzacDNQYxieYV_LYe)
+- [Lecture slides](https://docs.google.com/presentation/d/1i2HiuyRCEVkH9eNAjLOlC3rBYy1qTCcs0AZiJXo_R18/edit?usp=sharing)
+
+
+
 ### Natural Language Processing
 
 An introduction to processing language texts, including Natural Language Understanding techniques such as sentiment analysis, named entity recognition, linguistic metadata prediction. Natural Language Generation techniques such as summarisation and question-answering are introduced. 
