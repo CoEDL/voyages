@@ -6,11 +6,14 @@ This course is an introduction to a range of language technologies.
 
 ### Introduction to Languages
 
-A general introduction to the world's languages, including an overview of essential language and linguistics terminology that is required to know for other modules in the course. The module introduces a range of language technologies which are explored in more detail in following modules.
+A general introduction to the world's languages, including an overview of essential language and linguistics terminology that is required to know for other modules in the course.
 
-[Presentation recording playlist](https://www.youtube.com/watch?v=P7k1RkxR75U&list=PLPU3m9-GX8la28nWmzacDNQYxieYV_LYe)
+Lecture
 
-Presentation slides  
+- [Recording playlist](https://www.youtube.com/watch?v=P7k1RkxR75U&list=PLPU3m9-GX8la28nWmzacDNQYxieYV_LYe) (this video has an automatic transcript).
+
+Lecture slides  
+
 - [1_1 Introduction](https://docs.google.com/presentation/d/1cDefWih35FLzvCPlqZWw0UgYCmOyaVs4nMuuNtouOnE/edit?usp=sharing)
 - [1_2 Components of language](https://docs.google.com/presentation/d/1zcwXQ9CGw9ctnfMRiI3sdnpzuUkb_vJanighP2DtLDA/edit?usp=sharing)
 - [1_3 The world’s languages](https://docs.google.com/presentation/d/1wZF6swqQO6xl9BwBhyoQZmNUgvbqzMsh1HtSAA9NXSc/edit?usp=sharing)
@@ -18,9 +21,9 @@ Presentation slides
 - [1_5 Language and technology](https://docs.google.com/presentation/d/1411Vh-FVvzoNsIBvJBuHA5nI7ZH4hFicYzvQxPmIHDU/edit?usp=sharing)
 - [1_6 Core tools & tech support](https://docs.google.com/presentation/d/1nHRzGbqTrJKk4yL4xrpreQeBnttYTzWNXICB9gvLHv4/edit?usp=sharing)
 
-Prac notes  
-- [Introduction to Colab](pracs/1-colab.md)
-- [Recording of practical session](https://uqz.zoom.us/rec/share/k5OQJnhGKvvIGX-gejmCXrWvoflxVjZRpl8FhZulKEs760VpLJqwIWPXwxCvUFVh.cglhgLHtt9cs5Nnt?startTime=1628215383000). Please note that the audio transcript is automatic and very poor quality.
+Practical session
+- [Notes](pracs/1-colab.md)
+- [Recording](https://uqz.zoom.us/rec/share/k5OQJnhGKvvIGX-gejmCXrWvoflxVjZRpl8FhZulKEs760VpLJqwIWPXwxCvUFVh.cglhgLHtt9cs5Nnt?startTime=1628215383000) (this video has an automatic transcript).
 
 ### Introduction to Language Data
 
