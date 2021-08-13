@@ -7,4 +7,7 @@ The [audio colab](https://colab.research.google.com/drive/1Fk-ejTDY05vtYBUd1Wah8
 The [ELAN colab](https://colab.research.google.com/drive/1IgqDAd4RK3IjYC_sBORjV7Sp3ZZ7WRxo?usp=sharing) demonstrates how to parse ELAN files, sort tiers and extract annotations from tiers. It also shows a method for removing punctuation from the annotations. 
 
 
-For more data preparation scripts, see the [CoEDL Script Knowledgebase](https://coedl-knowledgebase.readthedocs.io/en/latest/).
+For more data preparation scripts, see 
+* the [CoEDL Script Knowledgebase](https://coedl-knowledgebase.readthedocs.io/en/latest/)
+* [Elan helper scripts](https://github.com/CoEDL/elan-helpers)
+* [Scripts to helkp working with text](https://github.com/CoEDL/text-helpers)
