@@ -41,7 +41,13 @@ Practical session
 
 ### Natural Language Processing
 
-An introduction to processing language texts, including Natural Language Understanding techniques such as sentiment analysis, named entity recognition, linguistic metadata prediction. Natural Language Generation techniques such as summarisation and question-answering are introduced. 
+An introduction to processing language texts, including Natural Language Processing and Understanding techniques such as tokenisation, chunking, sentiment analysis, named entity recognition and discourse analysis.
+
+Lecture
+
+- [Recording](https://youtu.be/H5onuLzhRz4)
+- [Lecture slides](https://docs.google.com/presentation/d/1dNwbGMgDfT8BrWlbbIi_0KcfiEed3utxmvSE6rsotIo/edit?usp=sharing)
+
 
 ### Automatic Speech Recognition
 
