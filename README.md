@@ -48,6 +48,9 @@ Lecture
 - [Recording](https://youtu.be/H5onuLzhRz4)
 - [Lecture slides](https://docs.google.com/presentation/d/1dNwbGMgDfT8BrWlbbIi_0KcfiEed3utxmvSE6rsotIo/edit?usp=sharing)
 
+Practical session
+* [Notes](pracs/3-nlp.md)
+
 
 ### Automatic Speech Recognition
 
