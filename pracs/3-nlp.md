@@ -17,3 +17,7 @@ Try the [projector visualisation](http://projector.tensorflow.org/) tool.
 ## Sentiment analysis 
 
 Sentiment analysis is used to determine the emotion in language. [This Colab](https://colab.research.google.com/drive/17H8bLQSWNdKEikGda2mZaaDHxaMJyHUI?usp=sharing) demonstrates an approach to analysing sentiment using the Natural Language Toolkit (NLTK).
+
+## Sarcasm detection
+
+That last practical activity was great. Sarcastic or not? Try [this Colab](https://colab.research.google.com/drive/1YxytGb1_qGtEM-fGLmkyomp19Co-6pr8?usp=sharing) to train a sarcasm detection model.
