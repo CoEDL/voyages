@@ -66,6 +66,11 @@ Practical session
 
 The requirements for developing and using speech recognition technology, with a focus on Kaldi, ESPnet and wav2vec2 used in the Elpis ASR system. This module also includes considerations for developing user-friendly language technologies.
 
+Lecture
+
+- [Recording](https://youtu.be/e4udpR-wSD0)
+- [Lecture slides](https://docs.google.com/presentation/d/1ktjVNb9DYg48lF-Pir4OmFhGMPhabSXdwHDFtLIYH7U/edit?usp=sharing)
+
 
 ---
 
