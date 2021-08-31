@@ -71,6 +71,9 @@ Lecture
 - [Recording](https://youtu.be/e4udpR-wSD0)
 - [Lecture slides](https://docs.google.com/presentation/d/1ktjVNb9DYg48lF-Pir4OmFhGMPhabSXdwHDFtLIYH7U/edit?usp=sharing)
 
+Practical session
+* [Notes](pracs/4-asr.md)
+
 
 ---
 
