@@ -77,9 +77,14 @@ Practical session
 
 ---
 
-## Text-to-Speech
+## Speech Synthesis and Text-to-Speech (TTS)
 
 An overview of the major techniques used in developing and using text to speech systems, with background information relating to sound formats and compression.
+
+Lecture
+
+- [Recording](https://youtu.be/Xtz2NkGvIDI)
+- [Lecture slides](https://docs.google.com/presentation/d/1XkS219dgWU1Y9GPtAagIE-22DMCQIHESdcEQf7oqSp8/edit?usp=sharing)
 
 
 ---
