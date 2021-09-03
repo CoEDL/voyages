@@ -86,6 +86,9 @@ Lecture
 - [Recording](https://youtu.be/Xtz2NkGvIDI)
 - [Lecture slides](https://docs.google.com/presentation/d/1XkS219dgWU1Y9GPtAagIE-22DMCQIHESdcEQf7oqSp8/edit?usp=sharing)
 
+Practical session
+* [Notes](pracs/5-tts.md)
+
 
 ---
 
