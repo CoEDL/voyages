@@ -19,7 +19,7 @@ This tutorial reinforces knowledge of speech synthesis and text-to-speech TTS sy
     8. Listen to it, and save the file as _student_number_3.wav_
 
 4. Normalisation
-    1. Download this folder of audio files. 
+    1. Download [this folder of audio files](https://drive.google.com/drive/folders/1LebwcDLVTPkpVuk87PMKSLpaztPi7yDE?usp=sharing). 
     2. Open each file in Audacity and compare the waveforms.  
     3. Open the `kicking-mule-very-quiet` audio file.
     4. [Normalise](https://manual.audacityteam.org/man/amplify_and_normalize.html) the levels.
