@@ -88,6 +88,7 @@ Lecture
 
 Practical session
 * [Notes](pracs/5-tts.md)
+* [Recording](https://youtu.be/6U3FPlGow5E)
 
 
 ---
