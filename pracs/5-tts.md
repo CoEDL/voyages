@@ -1,4 +1,4 @@
-# Voyages 4 Speech Synthesis
+# Voyages 5 Speech Synthesis
 
 This tutorial reinforces knowledge of speech synthesis and text-to-speech TTS systems, including manipulating audio files, using a basic concatenative synthesiser and using more advanced systems. The results of a variety of systems are reviewed to understand the difference between them.
 
