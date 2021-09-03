@@ -27,6 +27,13 @@ This tutorial reinforces knowledge of speech synthesis and text-to-speech TTS sy
 5. Show and tell!
 
 
+
+## Waveforms, spectograms and MFCCs
+
+1. Try this Colab to [generate representations of audio features](https://colab.research.google.com/drive/12-Czo-WeSfY9I6u2x4_0TR4VKTvyLX3x?usp=sharing).
+
+2. Read more with [Jurafsky and Martin's Speech and Language Processing book](Speech and Language Processing). Particularly chapters 25 and 26.
+
 ## Speech Synthesis systems
 
 1. Concatenative TTS
