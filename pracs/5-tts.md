@@ -43,7 +43,7 @@ This tutorial reinforces knowledge of speech synthesis and text-to-speech TTS sy
     3. Change the sentence.
     4. Generate speech.
     5. Describe the plots.
-    6. More info: [Medium article](https://medium.com/a-paper-a-day-will-have-you-screaming-hurray/day-6-deep-voice-3-scaling-text-to-speech-with-convolutional-sequence-learning-16c3e8be4eda) | [Github](https://github.com/r9y9/deepvoice3_pytorch) | [Baidu](http://research.baidu.com/Blog/index-view?id=91)
+    6. More info: [Medium article](https://medium.com/a-paper-a-day-will-have-you-screaming-hurray/day-6-deep-voice-3-scaling-text-to-speech-with-convolutional-sequence-learning-16c3e8be4eda), [Github](https://github.com/r9y9/deepvoice3_pytorch), [Baidu](http://research.baidu.com/Blog/index-view?id=91)
 
 3. Tacotron2
     1. Open and copy the [Tacotron2 demo Colab](https://colab.research.google.com/drive/1s0GMSj8kjI_GkG9PSkFztJ2tmC9PnjYA?usp=sharing)
