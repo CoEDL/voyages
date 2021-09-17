@@ -97,10 +97,12 @@ Practical session
 
 What is AI, and why does it need Indigenous knowledge? This module explores the value and impact of different perspectives on AI and ML technology development, with examples of object recognition in a language context.
 
+Practical session
+* [Notes](pracs/6-ai.md)
 
 ---
 
-## Sign and Gesture Language Technologies 
+## Sign and Gesture Language Technologies
 
 This module covers the latest developments in sign and gesture recognition and production. Further considerations for ethically co-designing appropriate technologies are also covered.
 
