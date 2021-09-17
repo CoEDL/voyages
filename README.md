@@ -102,6 +102,7 @@ Lecture
 
 Practical session
 * [Notes](pracs/6-ai.md)
+* [Recording](https://youtu.be/ZJpH2pu3sK0)
 
 ---
 
