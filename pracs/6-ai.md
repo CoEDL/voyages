@@ -99,8 +99,7 @@ Use the [Colab](https://colab.research.google.com/drive/1yW1lu7-NFU9iL_N63B5Mp6F
 
 * Train with 100 epochs (15min) to check the code works.
 * Detect on the test images. Did it recognise anything? Try decreasing the confidence value.
-
-* Retrain with 3000 epochs to improve quality.
+* Retrain with more than 500 epochs to improve quality. BTW, 1000 epochs took 1h 20min for me.
 * Detect on the test images again. Adjust the conf value.
 What did it recognise now?
 
