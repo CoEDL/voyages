@@ -106,7 +106,7 @@ Practical session
 
 ---
 
-## Sign and Gesture Language Technologies
+## Sign Languages and Communicative Gesture
 
 This module covers the latest developments in sign and gesture recognition and production. Further considerations for ethically co-designing appropriate technologies are also covered.
 
