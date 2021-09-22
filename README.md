@@ -36,8 +36,8 @@ Aspects of data preparation for machine learning and language tech development a
 
 Lecture
 
-- [Recording playlist](https://www.youtube.com/watch?v=_ErpE13hqKM&list=PLPU3m9-GX8lYbnvafsc1hLQQLiN75qw3i)
-- [Lecture slides](https://docs.google.com/presentation/d/1i2HiuyRCEVkH9eNAjLOlC3rBYy1qTCcs0AZiJXo_R18/edit?usp=sharing)
+* [Recording playlist](https://www.youtube.com/watch?v=_ErpE13hqKM&list=PLPU3m9-GX8lYbnvafsc1hLQQLiN75qw3i)
+* [Lecture slides](https://docs.google.com/presentation/d/1i2HiuyRCEVkH9eNAjLOlC3rBYy1qTCcs0AZiJXo_R18/edit?usp=sharing)
 
 Practical session
 * [Notes](pracs/2-data.md)
@@ -52,8 +52,8 @@ An introduction to processing language texts, including Natural Language Process
 
 Lecture
 
-- [Recording](https://youtu.be/H5onuLzhRz4)
-- [Lecture slides](https://docs.google.com/presentation/d/1dNwbGMgDfT8BrWlbbIi_0KcfiEed3utxmvSE6rsotIo/edit?usp=sharing)
+* [Recording](https://youtu.be/H5onuLzhRz4)
+* [Lecture slides](https://docs.google.com/presentation/d/1dNwbGMgDfT8BrWlbbIi_0KcfiEed3utxmvSE6rsotIo/edit?usp=sharing)
 
 Practical session
 * [Notes](pracs/3-nlp.md)
@@ -68,8 +68,8 @@ The requirements for developing and using speech recognition technology, with a 
 
 Lecture
 
-- [Recording](https://youtu.be/e4udpR-wSD0)
-- [Lecture slides](https://docs.google.com/presentation/d/1ktjVNb9DYg48lF-Pir4OmFhGMPhabSXdwHDFtLIYH7U/edit?usp=sharing)
+* [Recording](https://youtu.be/e4udpR-wSD0)
+* [Lecture slides](https://docs.google.com/presentation/d/1ktjVNb9DYg48lF-Pir4OmFhGMPhabSXdwHDFtLIYH7U/edit?usp=sharing)
 
 Practical session
 * [Notes](pracs/4-asr.md)
@@ -83,8 +83,8 @@ An overview of the major techniques used in developing and using speech synthesi
 
 Lecture
 
-- [Recording](https://youtu.be/Xtz2NkGvIDI)
-- [Lecture slides](https://docs.google.com/presentation/d/1XkS219dgWU1Y9GPtAagIE-22DMCQIHESdcEQf7oqSp8/edit?usp=sharing)
+* [Recording](https://youtu.be/Xtz2NkGvIDI)
+* [Lecture slides](https://docs.google.com/presentation/d/1XkS219dgWU1Y9GPtAagIE-22DMCQIHESdcEQf7oqSp8/edit?usp=sharing)
 
 Practical session
 * [Notes](pracs/5-tts.md)
@@ -113,8 +113,10 @@ This module covers the latest developments in sign and gesture recognition and p
 
 Lecture
 
-- [Recording](https://youtu.be/9b7AZ04-XAQ)
-- [Lecture slides](https://docs.google.com/presentation/d/1vcOwZibXcpS_uA0oiUR9gId6FKbv7dRl/edit?usp=sharing&ouid=116387713848651780542&rtpof=true&sd=true)
+* [Recording](https://youtu.be/9b7AZ04-XAQ)
+* [Lecture slides](https://docs.google.com/presentation/d/1vcOwZibXcpS_uA0oiUR9gId6FKbv7dRl/edit?usp=sharing&ouid=116387713848651780542&rtpof=true&sd=true)
+
+
 
 ---
 
