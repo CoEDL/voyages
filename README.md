@@ -2,9 +2,7 @@
 
 # Voyages in Language Technologies
 
-This course is an introduction to a range of language technologies. 
-
-Recordings of the lectures and practical sessions will have automatic transcriptions provided by YouTube or Zoom. These will be corrected manually and the status of recordings updated below as these are corrected. 
+This course is an introduction to a range of language technologies. Recordings of the lectures and practical sessions have automatic transcriptions provided by YouTube or Zoom. 
 
 
 Contents
@@ -129,7 +127,7 @@ Practical session
 <a name="sign-languages-and-communicative-gesture"/>
 ## Sign Languages and Communicative Gesture
 
-This module covers the latest developments in sign and gesture recognition and production. Further considerations for ethically co-designing appropriate technologies are also covered.
+This module covers the latest developments in sign and gesture recognition and production. Further considerations for ethically co-designing appropriate technologies are also covered. The lecture and practical session recordings have Auslan interpreters.
 
 
 Lecture
