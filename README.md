@@ -38,8 +38,8 @@ Lecture
     - [1_6 Core tools & tech support](https://docs.google.com/presentation/d/1nHRzGbqTrJKk4yL4xrpreQeBnttYTzWNXICB9gvLHv4/edit?usp=sharing)
 
 Practical session
-* [Notes](pracs/1-colab.md)
 * [Recording](https://uqz.zoom.us/rec/share/k5OQJnhGKvvIGX-gejmCXrWvoflxVjZRpl8FhZulKEs760VpLJqwIWPXwxCvUFVh.cglhgLHtt9cs5Nnt?startTime=1628215383000)
+* [Notes](pracs/1-colab.md)
 
 
 ---
@@ -55,8 +55,8 @@ Lecture
 * [Lecture slides](https://docs.google.com/presentation/d/1i2HiuyRCEVkH9eNAjLOlC3rBYy1qTCcs0AZiJXo_R18/edit?usp=sharing)
 
 Practical session
-* [Notes](pracs/2-data.md)
 * [Recording](https://youtu.be/tJKPpaCXF2w)
+* [Notes](pracs/2-data.md)
 
 
 ---
@@ -72,8 +72,8 @@ Lecture
 * [Lecture slides](https://docs.google.com/presentation/d/1dNwbGMgDfT8BrWlbbIi_0KcfiEed3utxmvSE6rsotIo/edit?usp=sharing)
 
 Practical session
-* [Notes](pracs/3-nlp.md)
 * [Recording](https://youtu.be/9wyIOXICsuM)
+* [Notes](pracs/3-nlp.md)
 
 
 ---
@@ -104,8 +104,8 @@ Lecture
 * [Lecture slides](https://docs.google.com/presentation/d/1XkS219dgWU1Y9GPtAagIE-22DMCQIHESdcEQf7oqSp8/edit?usp=sharing)
 
 Practical session
-* [Notes](pracs/5-tts.md)
 * [Recording](https://youtu.be/6U3FPlGow5E)
+* [Notes](pracs/5-tts.md)
 
 
 ---
@@ -119,8 +119,8 @@ Lecture
 * [Recording](https://youtu.be/1BcrsSBlBQE)
 
 Practical session
-* [Notes](pracs/6-ai.md)
 * [Recording](https://youtu.be/ZJpH2pu3sK0)
+* [Notes](pracs/6-ai.md)
 
 ---
 
@@ -136,8 +136,8 @@ Lecture
 * [Lecture slides](https://docs.google.com/presentation/d/1vcOwZibXcpS_uA0oiUR9gId6FKbv7dRl/edit?usp=sharing&ouid=116387713848651780542&rtpof=true&sd=true)
 
 Practical session
-* [MediaPipe & PCA for Auslan Colab](https://colab.research.google.com/drive/1MtdQiZc7G5n-I2bMmZLwr_-zDVG7GfKl?usp=sharing#scrollTo=vp-ohtBNSFkj)
 * [Recording](https://youtu.be/-eA6dO1eaOo)
+* [MediaPipe & PCA for Auslan Colab](https://colab.research.google.com/drive/1MtdQiZc7G5n-I2bMmZLwr_-zDVG7GfKl?usp=sharing#scrollTo=vp-ohtBNSFkj)
 
 
 ---
