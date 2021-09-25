@@ -74,7 +74,6 @@ Lecture
 Practical session
 * [Notes](pracs/4-asr.md)
 
-
 ---
 
 ## Speech Synthesis
@@ -116,6 +115,9 @@ Lecture
 * [Recording](https://youtu.be/9b7AZ04-XAQ)
 * [Lecture slides](https://docs.google.com/presentation/d/1vcOwZibXcpS_uA0oiUR9gId6FKbv7dRl/edit?usp=sharing&ouid=116387713848651780542&rtpof=true&sd=true)
 
+Practical session
+* [MediaPipe & PCA for Auslan Colab](https://colab.research.google.com/drive/1MtdQiZc7G5n-I2bMmZLwr_-zDVG7GfKl?usp=sharing#scrollTo=vp-ohtBNSFkj)
+* [Recording](https://youtu.be/-eA6dO1eaOo)
 
 
 ---
