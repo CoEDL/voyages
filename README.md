@@ -132,7 +132,7 @@ This module covers the latest developments in sign and gesture recognition and p
 
 Lecture
 
-* [Recording](https://youtu.be/9b7AZ04-XAQ)
+* [Recording](https://youtu.be/-WcoLh1KPuc)
 * [Lecture slides](https://docs.google.com/presentation/d/1vcOwZibXcpS_uA0oiUR9gId6FKbv7dRl/edit?usp=sharing&ouid=116387713848651780542&rtpof=true&sd=true)
 
 Practical session
