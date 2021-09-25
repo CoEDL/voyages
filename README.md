@@ -6,8 +6,24 @@ This course is an introduction to a range of language technologies.
 
 Recordings of the lectures and practical sessions will have automatic transcriptions provided by YouTube or Zoom. These will be corrected manually and the status of recordings updated below as these are corrected. 
 
+
+Contents
+
+1. [Introduction to Languages](#introduction-to-languages)
+2. [Introduction to Language Data](#introduction-to-language-data)
+3. [Natural Language Processing](#natural-language-processing)
+4. [Automatic Speech Recognition](#automatic-speech-recognition)
+5. [Speech Synthesis](#speech-synthesis)
+6. [Indigenous AI](#indigenous-ai)
+7. [Sign Languages and Communicative Gesture](#sign-languages-and-communicative-gesture)
+8. [Language Models and Language Generation](#language-models-and-language-generation)
+9. [Neural Machine Translation](#neural-machine-translation)
+10. [Conversational AI](#conversational-ai)
+
+
 ---
 
+<a name="introduction-to-languages"/>
 ## Introduction to Languages
 
 A general introduction to the world's languages, including an overview of essential language and linguistics terminology that is required to know for other modules in the course.
@@ -30,6 +46,7 @@ Practical session
 
 ---
 
+<a name="introduction-to-language-data"/>
 ## Introduction to Language Data
 
 Aspects of data preparation for machine learning and language tech development and use. Data fundamentals such as international standards (ISO codes and Unicodes) are included.
@@ -46,6 +63,7 @@ Practical session
 
 ---
 
+<a name="natural-language-processing"/>
 ## Natural Language Processing
 
 An introduction to processing language texts, including Natural Language Processing and Understanding techniques such as tokenisation, chunking, sentiment analysis, named entity recognition and discourse analysis.
@@ -62,6 +80,7 @@ Practical session
 
 ---
 
+<a name="automatic-speech-recognition"/>
 ## Automatic Speech Recognition
 
 The requirements for developing and using speech recognition technology, with a focus on Kaldi, ESPnet and wav2vec2 used in the Elpis ASR system. This module also includes considerations for developing user-friendly language technologies.
@@ -76,6 +95,7 @@ Practical session
 
 ---
 
+<a name="speech-synthesis"/>
 ## Speech Synthesis
 
 An overview of the major techniques used in developing and using speech synthesis and text to speech (TTS) systems, with background information relating to sound formats and compression.
@@ -92,6 +112,7 @@ Practical session
 
 ---
 
+<a name="indigenous-ai"/>
 ## Indigenous AI
 
 What is AI, and why does it need Indigenous knowledge? This module explores the value and impact of different perspectives on AI and ML technology development, with examples of object recognition in a language context.
@@ -105,6 +126,7 @@ Practical session
 
 ---
 
+<a name="sign-languages-and-communicative-gesture"/>
 ## Sign Languages and Communicative Gesture
 
 This module covers the latest developments in sign and gesture recognition and production. Further considerations for ethically co-designing appropriate technologies are also covered.
@@ -122,6 +144,7 @@ Practical session
 
 ---
 
+<a name="language-models-and-language-generation"/>
 ## Language Models and Language Generation
 
 Language models are the probabilities of a particular sequence of words occuring in a sentence. Language models underpin many language technologies. This module introduces the concept and techniques of building language models, and the application of these in the generation of language.
@@ -129,6 +152,7 @@ Language models are the probabilities of a particular sequence of words occuring
 
 ---
 
+<a name="neural-machine-translation"/>
 ## Neural Machine Translation
 
 This module describes approaches to machine translation, requirements for data preparation to build and use machine translation systems, and detail of machine translation techniques.
@@ -136,6 +160,7 @@ This module describes approaches to machine translation, requirements for data p
 
 ---
 
+<a name="conversational-ai"/>
 ## Conversational AI
 
 In this module, the history of chat tech is described along with ethical implications of conversational language tech.
