@@ -2,7 +2,7 @@
 
 This session will generate language using various methods.
 
-1. Basic bi-gram language model. [Colab](https://drive.google.com/file/d/1fJQ4C3yxdFIsjOtqIjafVYBqsbDPIqor/view?usp=sharing)
+1. Basic bi-gram language model. [Colab](https://colab.research.google.com/drive/1Op8Gn8ypVCVhxFpPlsfGZcUD4A3Am_Ez?usp=sharing)
 
 2. [GPT2](https://openai.com/blog/better-language-models/) transformer-based deep learning language model. [Colab](https://colab.research.google.com/drive/1jO0IQQbRq3bKnvDMtYTwEXXy43PuNiMs?usp=sharing)
 
