@@ -148,7 +148,7 @@ Practical session
 Language models are the probabilities of a particular sequence of words occuring in a sentence. Language models underpin many language technologies. This module introduces the concept and techniques of building language models, and the application of these in the generation of language.
 
 Lecture
-* Recording
+* [Recording](https://youtu.be/HTD6ZuYrrgU)
 * [Lecture slides](https://drive.google.com/file/d/1qXhy1UH4NcS-nAOfXS_3Zzhay2xbqefe/view?usp=sharing)
 
 Practical session
