@@ -152,6 +152,7 @@ Lecture
 * [Lecture slides](https://drive.google.com/file/d/1qXhy1UH4NcS-nAOfXS_3Zzhay2xbqefe/view?usp=sharing)
 
 Practical session
+* [Recording](https://youtu.be/Dvdmd9LfQb8)
 * [Notes](pracs/8-lm-lg.md)
 
 ---
