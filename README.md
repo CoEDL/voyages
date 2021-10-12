@@ -174,7 +174,7 @@ Part B - Technical stuff
 
 Prac
 * [Recording, introducing the colab](https://youtu.be/ZblCMIy8hzU)
-* [Colab](https://colab.research.google.com/drive/1cwrpc1zz_yev955tE1zgWjCz5XNikQsn)
+* [Notes](pracs/9-nmt.md)
 
 Further reading. This is not required reading, just for those who are instered in more detail about topics covered in the lecture, or want to know more about spoecific parts of NMT.
 
