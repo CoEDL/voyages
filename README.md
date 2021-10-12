@@ -162,6 +162,29 @@ Practical session
 
 This module describes approaches to machine translation, requirements for data preparation to build and use machine translation systems, and detail of machine translation techniques.
 
+Lecture
+
+Part A - Overview
+* [Recording](https://youtu.be/sXRhjnjgYOg)
+* [Slides](https://docs.google.com/presentation/d/14GhicBMQRUeQXfacl-Pi2avmyZUW3m_Q/edit?usp=sharing&ouid=116387713848651780542&rtpof=true&sd=true)
+
+Part B - Technical stuff
+* [Recording](https://youtu.be/n95jH3gMhXY)
+* [Slides](https://docs.google.com/presentation/d/1A_sz2hF0ayRzC_BS6GH_XVV8iUjSP87T/edit?usp=sharing&ouid=116387713848651780542&rtpof=true&sd=true)
+
+Prac
+* [Recording, introducing the colab](https://youtu.be/ZblCMIy8hzU)
+* [Colab](https://colab.research.google.com/drive/1cwrpc1zz_yev955tE1zgWjCz5XNikQsn)
+
+Further reading. This is not required reading, just for those who are instered in more detail about topics covered in the lecture, or want to know more about spoecific parts of NMT.
+
+* The original transformers paper, [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf).
+* Blog post about [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
+* [BERT](https://arxiv.org/pdf/1810.04805.pdf) is an example of an "improvement" on the transformer for a specific task.
+* [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+* [BLUE score](https://aclanthology.org/P02-1040.pdf)
+* Back-translation: [Improving Neural Machine Translation Models with Monolingual Data](https://aclanthology.org/P16-1009.pdf) and [Phrase-Based & Neural Unsupervised Machine Translation](https://aclanthology.org/D18-1549.pdf)
+
 
 ---
 
