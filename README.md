@@ -178,10 +178,12 @@ Prac
 
 Further reading. This is not required reading, just for those who are instered in more detail about topics covered in the lecture, or want to know more about spoecific parts of NMT.
 
-* The original transformers paper, [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf).
-* Blog post about [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/).
-* [BERT](https://arxiv.org/pdf/1810.04805.pdf) is an example of an "improvement" on the transformer for a specific task.
-* [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+* Really good [talk on RNNs (for general sequence processing)](https://www.youtube.com/watch?v=SEnXr6v2ifU&list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI&index=2)
+* The original transformers paper, [Attention Is All You Need](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf)
+* Blog post about [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+* [BERT](https://arxiv.org/pdf/1810.04805.pdf) is an example of an "improvement" on the transformer for a specific task
+* An overview of [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+* [More technical explanation of attentional RNNs](https://arxiv.org/abs/1409.0473)
 * [BLUE score](https://aclanthology.org/P02-1040.pdf)
 * Back-translation: [Improving Neural Machine Translation Models with Monolingual Data](https://aclanthology.org/P16-1009.pdf) and [Phrase-Based & Neural Unsupervised Machine Translation](https://aclanthology.org/D18-1549.pdf)
 
