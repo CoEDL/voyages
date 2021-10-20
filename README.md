@@ -195,3 +195,10 @@ Further reading. This is not required reading, just for those who are instered i
 
 In this module, the history of chat tech is described along with ethical implications of conversational language tech.
 
+Lecture
+* [Recording](https://youtu.be/XLLVL1zd_0w)
+* [Slides](https://drive.google.com/file/d/1KgMNtTFa-Bx0dzt65tPzv4hM_HfTsd-x/view?usp=sharing)
+
+Prac
+<!-- * [Recording]() -->
+* [Slides]()
