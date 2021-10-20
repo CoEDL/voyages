@@ -201,4 +201,4 @@ Lecture
 
 Prac
 <!-- * [Recording]() -->
-* [Slides]()
+* [Slides](https://drive.google.com/file/d/1y4VkeJeOAs-jJQ1iTRNR9oej6dMmQzS2/view?usp=sharing)
