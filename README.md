@@ -200,4 +200,4 @@ Lecture
 * [Slides](https://drive.google.com/file/d/1KgMNtTFa-Bx0dzt65tPzv4hM_HfTsd-x/view?usp=sharing)
 
 Prac
-* [Notes](pracs/10-chatbot.md)
+* [Notes](pracs/10-chatbots.md)

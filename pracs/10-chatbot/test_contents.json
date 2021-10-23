@@ -1,0 +1,19 @@
+{
+  "messageVersion": "1.0",
+  "invocationSource": "DialogCodeHook",
+  "userId": "Me",
+  "sessionAttributes": {},
+  "bot": {
+    "name": "foleyb_libraryconcierge",
+    "alias": "$LATEST",
+    "version": "$LATEST"
+  },
+  "outputDialogMode": "Text",
+  "currentIntent": {
+    "name": "foley_findLibraryResource",
+    "slots": {
+      "foleyb_things": "toilet"
+    },
+    "confirmationStatus": "None"
+  }
+}
