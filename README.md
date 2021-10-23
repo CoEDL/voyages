@@ -200,5 +200,5 @@ Lecture
 * [Slides](https://drive.google.com/file/d/1KgMNtTFa-Bx0dzt65tPzv4hM_HfTsd-x/view?usp=sharing)
 
 Prac
-<!-- * [Recording]() -->
+* [Recording](https://youtu.be/ZXBT_dssOd4)
 * [Slides](https://drive.google.com/file/d/1y4VkeJeOAs-jJQ1iTRNR9oej6dMmQzS2/view?usp=sharing)
