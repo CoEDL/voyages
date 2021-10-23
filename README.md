@@ -193,12 +193,11 @@ Further reading. This is not required reading, just for those who are instered i
 <a name="conversational-ai"/>
 ## Conversational AI
 
-In this module, the history of chat tech is described along with ethical implications of conversational language tech.
+In this module, the history of chat tech is described along with ethical implications of conversational language tech. In the tutorial we will build chatbots using Amazon Lex.
 
 Lecture
 * [Recording](https://youtu.be/XLLVL1zd_0w)
 * [Slides](https://drive.google.com/file/d/1KgMNtTFa-Bx0dzt65tPzv4hM_HfTsd-x/view?usp=sharing)
 
 Prac
-* [Recording](https://youtu.be/ZXBT_dssOd4)
-* [Slides](https://drive.google.com/file/d/1y4VkeJeOAs-jJQ1iTRNR9oej6dMmQzS2/view?usp=sharing)
+* [Notes](pracs/10-chatbot)
